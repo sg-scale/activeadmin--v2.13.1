@@ -304,7 +304,7 @@ GEM
       method_source
       rake (>= 12.2)
       thor (~> 1.0)
-    rake (13.0.6)
+    rake (13.4.2)
     ransack (3.0.1)
       activerecord (>= 6.0.4)
       activesupport (>= 6.0.4)
